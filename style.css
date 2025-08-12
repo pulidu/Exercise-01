@@ -1,0 +1,201 @@
+
+    h1 { 
+    color: red; 
+    } /* Q1 */
+
+    p { 
+    color: blue; 
+    } /* Q2 */
+
+    div { 
+    background-color: lightgray; 
+    } /* Q3 */
+
+    ul {
+     list-style: none; 
+     } /* Q4 */
+
+    a { 
+    color: green; 
+    } /* Q5 */
+
+    .highlight { 
+    background-color: yellow; 
+    } /* Q6 */
+
+    .note { 
+    font-style: italic; 
+    } /* Q7 */
+
+    .error { 
+    color: red; 
+    } /* Q8 */
+
+    .box {
+    border: 1px solid black; 
+    } /* Q9 */
+
+    .title { 
+    font-size: 24px; 
+    } /* Q10 */
+
+    #main1 { 
+    border: 2px solid blue; 
+    } /* Q11 */
+
+    #header { 
+    text-align: center; 
+    } /* Q12 */
+
+    #footer { 
+    background-color: gray; 
+    } /* Q13 */
+
+    #intro { 
+    font-weight: bold; 
+    } /* Q14 */
+
+    #content1 { 
+    padding: 20px; 
+    } /* Q15 */
+
+    h2, h3, h4 { 
+    color: navy; 
+    } /* Q16 */
+
+    .box, .card, #main-container { 
+    margin: 10px; 
+    } /* Q17 */
+
+    p, h1, h2, h3, h4, h5, h6 {
+    background-color: lightblue; 
+    } /* Q18 */
+
+    p, span, li { 
+    font-size: 18px; 
+    } /* Q19 */
+
+    .error, .warning, .info { 
+    border: 1px solid red; 
+    } /* Q20 */
+
+    p span { 
+    color: purple; 
+    } /* Q21 */
+
+    .menu li { 
+    color: green; 
+    } /* Q22 */
+
+    #content2 b { 
+    font-weight: bold; 
+    } /* Q23 */
+
+    div a { 
+    text-decoration: none; 
+    } /* Q24 */
+
+    .note em { 
+    font-style: italic; 
+    } /* Q25 */
+
+    ul > li { 
+    color: brown; 
+    } /* Q26 */
+
+    #main2 > p { 
+    padding: 15px; 
+    } /* Q27 */
+
+    .section > h3 { 
+    color: darkblue; 
+    } /* Q28 */
+
+    .container > div { 
+    margin: 10px; 
+    } /* Q29 */
+
+    tr > td { 
+    border: 1px solid gray; 
+    } /* Q30 */
+
+    h1 + p { 
+    color: orange; 
+    } /* Q31 */
+
+    div + div { 
+    background-color: beige; 
+    } /* Q32 */
+
+    input + label { 
+    font-weight: bold; 
+    } /* Q33 */
+
+    h1 + h2 { 
+    color: darkgreen; 
+    } /* Q34 */
+
+    img + span { 
+    font-weight: bold; 
+    } /* Q35 */
+
+    h2 ~ p { 
+    color: steelblue; 
+    } /* Q36 */
+
+    form ~ .alert { 
+    background-color: pink; 
+    } /* Q37 */
+
+    label ~ input { 
+    border: 1px dashed black; 
+    } /* Q38 */
+
+    li + li { 
+    font-style: italic; 
+    } /* Q39 */
+
+    h3 ~ h4 { 
+    color: olive; 
+    } /* Q40 */
+
+    input[type="text"] { 
+    border: 2px solid blue; 
+    } /* Q41 */
+
+    a[target="_blank"] { 
+    color: teal; 
+    } /* Q42 */
+
+    [disabled] { 
+    background-color: lightgray; 
+    } /* Q43 */
+
+    [title] { 
+    border-bottom: 1px dotted black; 
+    } /* Q44 */
+
+    input[placeholder] { 
+    border: 1px solid green; 
+    } /* Q45 */
+
+    li:first-child { 
+    font-weight: bold; 
+    } /* Q46 */
+
+    section p:last-child { 
+    color: crimson; 
+    } /* Q47 */
+
+    tr:nth-child(even) { 
+    background-color: #f2f2f2; 
+    } /* Q48 */
+
+    input:hover { 
+    background-color: lightyellow; 
+    } /* Q49 */
+
+    a:visited { 
+    color: purple; 
+    } /* Q50 */
+    
